@@ -26,25 +26,6 @@ This repository contains a complete notebook-based workflow for analyzing and fo
 
 ---
 
-## 🛠️ Getting Started
-
-1. **Install Required Packages**  
-   Make sure you have Python and Jupyter installed. Then run:
-
-   ```bash
-   pip install -r requirements.txt
-````
-
-2. **Launch Notebook**
-
-   ```bash
-   jupyter notebook EV_Adoption_Forecasting.ipynb
-   ```
-
-3. **Run Cells and Explore**
-   Step through the notebook to perform data analysis, forecasting, and visualization.
-
----
 
 ## 🧪 Requirements
 
